@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App A</string>
+    <string name="wetterdaten_abfragen">Wetterdaten abfragen</string>
+</resources>
